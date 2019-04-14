@@ -9,7 +9,7 @@ name: Nibl
 description: The robot candy turret for the modern home • ESE 350 Group 3 • Jason Kaufmann & Bhaskar Abhiraman.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![logo]({{ site.baseurl }}/images/nibllogo.png "logo")
+avatar: https://imgur.com/a/UtHpf83
 
 #
 # Flags below are optional
