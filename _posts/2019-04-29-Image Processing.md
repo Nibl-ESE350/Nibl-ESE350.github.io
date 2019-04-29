@@ -8,4 +8,4 @@ Jason and I had to lift our shirts up during the demo in order for the heat-seak
 The algorithm works pretty nicely!
 
 ![cosmo and wanda]({{ site.baseurl }}/images/test1.jpg "test1")
-![cosmo and wanda proc]({{ site.baseurl }}/images/test1proc.jpg "test1proc")
+![cosmo and wanda proc]({{ site.baseurl }}/images/test1proc.png "test1proc")
